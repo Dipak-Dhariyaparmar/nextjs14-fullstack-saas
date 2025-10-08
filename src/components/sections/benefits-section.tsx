@@ -1,3 +1,5 @@
+//This is a benefits-section related component
+
 import Image from "next/image"
 import Balancer from "react-wrap-balancer"
 
