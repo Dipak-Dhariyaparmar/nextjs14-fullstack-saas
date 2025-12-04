@@ -1,3 +1,5 @@
+//This component is related to faq-sections
+
 import Link from "next/link"
 import Balancer from "react-wrap-balancer"
 
